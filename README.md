@@ -7,6 +7,8 @@ Then, choose option (you can keep continiously choosing the option until you cli
 Whenever which option is chosen, the java file will be run (E.g Choose Summart, choose to group and calculate, the Summary.java file will be run)
 Note that, whenever option show chart is used, the image of the chart will be shown in the covid_data file
 
+**Youtube link of Presentation video**: https://youtu.be/p6Fml6Ara5o
+
 **Contribution** 
 
 **Dung Le** (+2) (s3915085): Leader, in charge of Summary part, assigns work for memebers, brainstorming the assignment by drawing diagram.
